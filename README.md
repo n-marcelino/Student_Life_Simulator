@@ -1,6 +1,6 @@
 # Student Life Simulator
 
-Welcome to Student Life Simulator, a console-based game written in Java!
+Welcome to Student Life Simulator, a console-based game written in Java! Requires java installed.
 
 ## Description
 
